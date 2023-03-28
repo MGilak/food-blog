@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Teko";
+  src: url("../fonts/Teko/Teko-Bold.ttf") format("truetype"),
+    url("../fonts/Teko/Teko-Regular.ttf") format("truetype");
+}
+
+* {
+  /* font-family: "Rubik", sans-serif; */
+  font-family: "Teko";
+}
